@@ -25,13 +25,13 @@ https://github.com/theblaisecode/shortly/assets/89015653/b7f6fbc6-c0c7-4498-acc5
 
 ## API Documentation
 
-For details on the TinyURL API, refer to the [official documentation](https://tinyurl.com/tools/apideveloper).
+For details on the TinyURL API, refer to the [official documentation](https://tinyurl.com/app/dev).
 
 ## Tech Stack
 
 - Tailwind CSS
 - JavaScript
-- [TinyURL API](https://tinyurl.com/tools/apideveloper)
+- [TinyURL API](https://tinyurl.com/app/dev)
 
 
 ## Authors
